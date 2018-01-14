@@ -1,0 +1,29 @@
+.img-width-fix {
+	max-width: 100%;
+}
+
+.jumbotron{
+	background-image: url("../img/blakeli.jpg");
+}
+
+.titlename {
+	color: white !important;
+	font-size: 20px;
+	font-style: monospace;
+}
+
+.titlecolumn{
+	background-color: pink;
+
+}
+.box {
+	background-color: pink;
+}
+
+.display-3 {
+	font-size: 60px;
+}
+
+.display-1 {
+	font-size: 90px;
+}

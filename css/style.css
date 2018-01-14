@@ -1,0 +1,42 @@
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+html {
+  background-color: #f5f7f9;
+}
+
+.img-width-fix {
+max-width: 100%;
+}
+.name {
+	font-size: 20px;
+	color: white;
+	font-width: bold;
+}
+.instagram {
+	font-size: 15px;
+	color: white;
+
+}
+
+.fa {
+	font-size: 25px;
+}
+
+.card-title {
+	color: #e16879;
+}
+.card {
+	border-color: #ccc;
+}
+
+.card-block small{
+float: right;
+}
+
+.titlecolumn {
+	background-color: pink ;
+}
